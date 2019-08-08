@@ -2,4 +2,10 @@ How Git works here.. Lets hand dirty.. here
 
 Adding second line for commiting.. 
 
+
+This changes may have futurte sprint.. 
+
+Future sprint work is done.. Waht to do now lets merger to Master.. 
+
 Master code is going on. .. 
+
